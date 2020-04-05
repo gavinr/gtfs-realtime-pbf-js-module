@@ -1,0 +1,23 @@
+{
+  "name": "gtfs-realtime-pbf-js-module",
+  "version": "1.0.0",
+  "description": "GTFS proto schema to JS Module using the PBF package",
+  "main": "gtfs-realtime.proto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinr/gtfs-realtime-pbf-js-module.git"
+  },
+  "keywords": [
+    "pbf",
+    "gtfs"
+  ],
+  "author": "Gavin Rehkemper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinr/gtfs-realtime-pbf-js-module/issues"
+  },
+  "homepage": "https://github.com/gavinr/gtfs-realtime-pbf-js-module#readme"
+}
