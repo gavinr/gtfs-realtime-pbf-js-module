@@ -6,11 +6,13 @@ I took the [published GTFS Realtime .proto schema file](https://developers.googl
 
 ### NPM
 
-*coming soon*
+`npm i gtfs-realtime-pbf-js-module`
 
 ### CDN
 
-*coming soon*
+`<script src="https://unpkg.com/gtfs-realtime-pbf-js-module@1.0.0/gtfs-realtime.browser.proto.js"></script>`
+
+([example of usage](https://codepen.io/gavinr/pen/XWbzGMW?editors=0010))
 
 ## How these were generated
 
